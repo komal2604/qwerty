@@ -1,0 +1,39 @@
+GIT BOOK
+https://git-scm.com/book/en/v2
+
+CLOUD FORMATION
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-east-1.html
+
+AMAZON DOCUMENTATION
+https://docs.aws.amazon.com/
+
+UBUNTU GIT PUSH PULL
+https://github.com/kevinsawicki/github-maven-example
+
+AMAZON USER GUIDE
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
+
+AMAZON INSTANCE TYPES
+https://aws.amazon.com/ec2/instance-types/
+
+LAMP
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04 
+
+CODE COMMIT
+https://docs.aws.amazon.com/codecommit/latest/userguide/welcome.html
+
+
+Dyanmodb
+
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/samples/sampledata.zip
+
+FREEWEBSITE TEMPLATE
+
+https://freewebsitetemplates.com/
+
+HOSTING WEBSITE
+https://docs.aws.amazon.com/AmazonS3/latest/dev/HostingWebsiteOnS3Setup.html
+
+
+PROJECTS
+https://aws.amazon.com/getting-started/projects/
